@@ -192,7 +192,7 @@ function ShowCreators() {
         />
         <p className="section-kicker">Creator directory</p>
         <h1>Discover the people making the internet more interesting.</h1>
-        <p>
+        <p className='kicker-desc'>
           Save your favorite creators, keep their links handy, and build a browsable
           little universe around the channels you love.
         </p>

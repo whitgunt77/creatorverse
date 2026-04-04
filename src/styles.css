@@ -350,6 +350,10 @@ body::before {
   text-transform: uppercase;
 }
 
+.kicker-desc {
+  color: var(--brand-navy) !important;
+}
+
 .hero {
   padding: 2rem;
   border-radius: 2.2rem;
