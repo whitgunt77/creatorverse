@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" role="img" aria-labelledby="title desc">
+  <title id="title">Creatorverse logo</title>
+  <desc id="desc">A modern logo with a spark icon and the word Creatorverse.</desc>
+
+  <defs>
+    <linearGradient id="creatorverse-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7B2EFF"></stop>
+      <stop offset="50%" stop-color="#00FFA3"></stop>
+      <stop offset="100%" stop-color="#FF2D95"></stop>
+    </linearGradient>
+
+    <filter id="icon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Icon -->
+  <g transform="translate(16 18)">
+    <rect x="0" y="0" width="104" height="104" rx="28" fill="#0A1128"></rect>
+    <path d="M52 18
+         L59 37
+         L78 44
+         L59 51
+         L52 70
+         L45 51
+         L26 44
+         L45 37 Z" fill="url(#creatorverse-gradient)" filter="url(#icon-glow)"></path>
+    <circle cx="52" cy="44" r="4.5" fill="#FFFFFF"></circle>
+  </g>
+
+  <!-- Text -->
+  <g transform="translate(145 54)">
+    <text x="0" y="22" font-family="Avenir Next, Trebuchet MS, Segoe UI, sans-serif" font-size="42" font-weight="800" fill="#FFFFFF">
+      Creator<tspan fill="#00FFA3">verse</tspan>
+    </text>
+
+    <text x="2" y="54" font-family="Avenir Next, Trebuchet MS, Segoe UI, sans-serif" font-size="13" font-weight="700" letter-spacing="3.5" fill="#E0BBFF">
+      CREATOR PLATFORM
+    </text>
+  </g>
+</svg>

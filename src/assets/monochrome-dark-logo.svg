@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" role="img" aria-labelledby="title desc">
+  <title id="title">Creatorverse monochrome logo dark</title>
+  <desc id="desc">A monochrome Creatorverse logo for use on light backgrounds.</desc>
+
+  <g transform="translate(16 18)">
+    <rect x="0" y="0" width="104" height="104" rx="28" fill="#0A1128"></rect>
+    <path d="M52 18
+         L59 37
+         L78 44
+         L59 51
+         L52 70
+         L45 51
+         L26 44
+         L45 37 Z" fill="#FFFFFF"></path>
+    <circle cx="52" cy="44" r="4.5" fill="#0A1128"></circle>
+  </g>
+
+  <g transform="translate(145 54)">
+    <text x="0" y="22" font-family="Avenir Next, Trebuchet MS, Segoe UI, sans-serif" font-size="42" font-weight="800" fill="#0A1128">
+      Creatorverse
+    </text>
+
+    <text x="2" y="54" font-family="Avenir Next, Trebuchet MS, Segoe UI, sans-serif" font-size="13" font-weight="700" letter-spacing="3.5" fill="#0A1128" opacity="0.7">
+      CREATOR PLATFORM
+    </text>
+  </g>
+</svg>

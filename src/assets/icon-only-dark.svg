@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Creatorverse monochrome icon dark</title>
+  <desc id="desc">A monochrome Creatorverse icon for light backgrounds.</desc>
+
+  <rect x="8" y="8" width="104" height="104" rx="28" fill="#0A1128"></rect>
+
+  <path d="M60 26
+       L67 45
+       L86 52
+       L67 59
+       L60 78
+       L53 59
+       L34 52
+       L53 45 Z" fill="#FFFFFF"></path>
+
+  <circle cx="60" cy="52" r="4.5" fill="#0A1128"></circle>
+</svg>
