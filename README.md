@@ -47,8 +47,6 @@ Here's a walkthrough of implemented required features:
 
 ![Creatorverse walkthrough](./creatorverse.gif)
 
-GIF created with **Kap**
-
 ## Notes
 
 One challenge encountered while building this app was managing component structure and passing data between components such as cards, detail pages, and edit forms. Another challenge was styling the application consistently using CSS variables and a custom color palette. Implementing the favorite toggle button and social media icon system also required additional component logic and SVG icon handling. Overall, the project helped reinforce React component structure, routing, state management, and UI design.
