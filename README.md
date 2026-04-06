@@ -45,7 +45,7 @@ The follolwing **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Creatorverse walkthrough]("https://www.dropbox.com/scl/fi/5x13upe4kuapy7kq2cadm/creatorverse.mov?rlkey=v48ty1fhefn8dabsyb7cwl9p3&st=uyj5xrcu&dl=0")
+![Creatorverse walkthrough](https://www.dropbox.com/scl/fi/5x13upe4kuapy7kq2cadm/creatorverse.mov?rlkey=v48ty1fhefn8dabsyb7cwl9p3&st=uyj5xrcu&dl=0)
 
 GIF created with **Kap**
 
